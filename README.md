@@ -1,2 +1,2 @@
-# meu-primeiro-sistema
+# poo-repository
 Repositório para programação orientada a objetos.
